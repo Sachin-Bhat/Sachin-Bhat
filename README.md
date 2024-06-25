@@ -11,4 +11,4 @@ My name is Sachin, I'm a data scientist and student living in Singapore. Thank y
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-Bhat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=General%20Stats)
 
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sachin-Bhat&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sachin-Bhat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
