@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 My name is Sachin, I'm a data scientist and student living in Singapore. Thank you for your interest in my GitHub profile.
 
