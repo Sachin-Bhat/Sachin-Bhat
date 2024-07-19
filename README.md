@@ -2,7 +2,7 @@
 
 My name is Sachin, I'm a data scientist and student living in Singapore. Thank you for your interest in my GitHub profile.
 
-- 🔭 I’m currently working on Linux Wayland Compositors.
+- 🔭 I’m currently working on Linux Wayland Compositors and AI Orchestration frameworks.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence @ Nanyang Technological University.
 - 👯 I’m looking to collaborate on Gen AI projects (I have quite a few ideas that could need help).
 - 🤔 I’m looking for help with understanding Rust and writing Rust-based drivers for Linux.
