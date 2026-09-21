@@ -75,7 +75,40 @@ Earlier work spans time-series research at NTU, software engineering at MAOTO, r
 
 Signal robustness after costs. Portfolio construction. Derivatives and risk. Market microstructure. Research infrastructure that makes experiments easier to reproduce and inspect.
 
-**Tools I work with:** Rust, Python, SQL, C++, NumPy, pandas, Polars, SciPy, PostgreSQL, Kafka, Docker, and Linux.
+### Tools I Work With
+
+<sub>LANGUAGES</sub>
+
+<p>
+  <img src="./assets/badges/rust.svg" alt="Rust" height="28">
+  <img src="./assets/badges/python.svg" alt="Python" height="28">
+  <img src="./assets/badges/sql.svg" alt="SQL" height="28">
+  <img src="./assets/badges/cplusplus.svg" alt="C++" height="28">
+  <img src="./assets/badges/c.svg" alt="C" height="28">
+</p>
+
+<sub>SCIENTIFIC COMPUTING</sub>
+
+<p>
+  <img src="./assets/badges/numpy.svg" alt="NumPy" height="28">
+  <img src="./assets/badges/pandas.svg" alt="pandas" height="28">
+  <img src="./assets/badges/polars.svg" alt="Polars" height="28">
+  <img src="./assets/badges/scipy.svg" alt="SciPy" height="28">
+</p>
+
+<sub>DATA &amp; INFRASTRUCTURE</sub>
+
+<p>
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" height="28">
+  <img src="./assets/badges/kafka.svg" alt="Kafka" height="28">
+  <img src="./assets/badges/redis.svg" alt="Redis" height="28">
+  <img src="./assets/badges/influxdb.svg" alt="InfluxDB" height="28">
+  <img src="./assets/badges/snowflake.svg" alt="Snowflake" height="28">
+  <img src="./assets/badges/docker.svg" alt="Docker" height="28">
+  <img src="./assets/badges/linux.svg" alt="Linux" height="28">
+  <img src="./assets/badges/bash.svg" alt="Bash" height="28">
+  <img src="./assets/badges/git.svg" alt="Git" height="28">
+</p>
 
 Away from code: chess, retro operating systems, and breaking.
 

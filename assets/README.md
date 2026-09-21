@@ -9,3 +9,5 @@ The [profile graphics workflow](../.github/workflows/profile-graphics.yml) refre
 The cards show public activity. Language shares use byte counts in owned, non-fork repositories, including notebooks; they are not a proficiency measure and exclude most work in other organizations. The contribution graphic animates the account's GitHub calendar.
 
 The first cards were generated through the same project's public endpoint. Subsequent refreshes run inside GitHub Actions and commit the generated assets here.
+
+The technology badges in `badges/` are static SVGs generated with [Shields.io](https://shields.io/badges/static-badge), using its `for-the-badge` style and [Simple Icons](https://simpleicons.org/) logos where available. They are stored locally so the tools section does not depend on an external badge service at page load. The technologies are drawn from the profile and CV; the badges do not imply certifications or endorsements.
