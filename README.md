@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Sachin Bhat | Quantitative Finance | Research. Code. Systems.">
+  <img src="./assets/profile-header.svg" width="100%" alt="Sachin Bhat | Senior AI Platform Engineer, CQF | Quantitative research and Python/Rust systems">
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@ I'm Sachin, based in Singapore. I build production Rust and Python systems at Ta
 **Education:** Certificate in Quantitative Finance, **84/100**; B.Sc. Data Science & AI, **NTU**, Honours (Merit).
 
 **Competition:** WorldQuant BRAIN Gold League (Top 50), 2023 NTU x WorldQuant Alphathon.
+
+<img src="./assets/section-divider.svg" width="100%" height="18" alt="">
 
 ## Selected Quant Work
 
@@ -44,6 +46,8 @@ European option pricing with Black-Scholes, analytic Greeks, and spot/volatility
 Tools for studying market reactions around CPI, FOMC, and earnings announcements. Compares pre/post returns, volatility changes, drawdowns, and time to peak move across assets, with configurable event windows and CSV exports.
 
 [Inspect the analytics](https://github.com/Sachin-Bhat/event-impact/blob/master/src/event_impact/metrics.py)
+
+<img src="./assets/section-divider.svg" width="100%" height="18" alt="">
 
 ## Research & Engineering
 
@@ -74,6 +78,32 @@ Signal robustness after costs. Portfolio construction. Derivatives and risk. Mar
 **Tools I work with:** Rust, Python, SQL, C++, NumPy, pandas, Polars, SciPy, PostgreSQL, Kafka, Docker, and Linux.
 
 Away from code: chess, retro operating systems, and breaking.
+
+<img src="./assets/section-divider.svg" width="100%" height="18" alt="">
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Sachin-Bhat?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+      <img src="./assets/stats-light.svg" width="400" alt="Sachin's public GitHub activity: commits, pull requests, issues, stars, and repositories contributed to">
+    </picture>
+  </a>
+  <a href="https://github.com/Sachin-Bhat?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+      <img src="./assets/languages-light.svg" width="400" alt="Language distribution by code size in Sachin's public, non-fork repositories">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Public activity. Language shares reflect repository size, not proficiency.</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <img src="./assets/contributions-light.svg" width="100%" alt="Animated snake moving through Sachin's GitHub contribution calendar">
+</picture>
 
 ---
 

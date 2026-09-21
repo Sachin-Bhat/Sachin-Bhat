@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sachin Bhat - quantitative research and systems engineering</title>
+  <desc id="desc">An animated introduction with rotating research and engineering interests and illustrative signal traces.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .name { font-size: 60px; font-weight: 700; fill: #f0f6fc; }
+    .credential { font-size: 19px; fill: #b4bec9; }
+    .role { font-family: monospace; font-size: 21px; fill: #71dfb3; }
+    .one { animation: first 15s infinite; }
+    .two { opacity: 0; animation: second 15s infinite; }
+    .three { opacity: 0; animation: third 15s infinite; }
+    .cursor { animation: blink 1s steps(2, end) infinite; }
+    .trace { fill: none; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 14 86; animation: flow 9s linear infinite; }
+    .gold { animation-duration: 12s; animation-direction: reverse; }
+    .blue { animation-duration: 15s; }
+    @keyframes first { 0%, 29% { opacity: 1; clip-path: inset(0); } 32%, 96% { opacity: 0; clip-path: inset(0 100% 0 0); } 100% { opacity: 1; clip-path: inset(0); } }
+    @keyframes second { 0%, 32% { opacity: 0; clip-path: inset(0 100% 0 0); } 36%, 62% { opacity: 1; clip-path: inset(0); } 65%, 100% { opacity: 0; clip-path: inset(0 100% 0 0); } }
+    @keyframes third { 0%, 65% { opacity: 0; clip-path: inset(0 100% 0 0); } 69%, 95% { opacity: 1; clip-path: inset(0); } 98%, 100% { opacity: 0; clip-path: inset(0 100% 0 0); } }
+    @keyframes blink { to { opacity: 0; } }
+    @keyframes flow { to { stroke-dashoffset: -100; } }
+    @media (prefers-reduced-motion: reduce) {
+      .one, .two, .three, .cursor, .trace { animation: none; }
+      .two, .three { display: none; }
+    }
+  </style>
+  <rect width="900" height="240" fill="#0d1117"/>
+  <path d="M0 183H900 M0 211H900 M100 175V240 M250 175V240 M400 175V240 M550 175V240 M700 175V240 M850 175V240" fill="none" stroke="#26323c" stroke-width="0.7"/>
+  <text x="450" y="80" text-anchor="middle" class="name">SACHIN BHAT</text>
+  <text x="450" y="118" text-anchor="middle" class="credential">Senior AI Platform Engineer | CQF</text>
+  <g class="role" text-anchor="middle">
+    <text x="450" y="155" class="one">Quantitative research<tspan class="cursor">_</tspan></text>
+    <text x="450" y="155" class="two">Python &amp; Rust systems<tspan class="cursor">_</tspan></text>
+    <text x="450" y="155" class="three">Build. Measure. Iterate.<tspan class="cursor">_</tspan></text>
+  </g>
+  <defs>
+    <path id="a" pathLength="100" d="M-10 213L30 213 60 198 100 208 145 190 185 202 230 181 270 196 320 193 360 214 405 204 450 219 495 203 540 212 580 194 630 206 680 188 720 201 770 190 815 211 860 204 910 216"/>
+    <path id="b" pathLength="100" d="M-10 200L35 207 80 195 125 212 170 205 215 217 260 201 305 209 350 188 395 201 440 193 485 214 530 202 575 222 620 209 665 217 710 202 755 210 800 191 845 203 910 194"/>
+    <path id="c" pathLength="100" d="M-10 224L40 220 90 229 140 219 190 225 240 212 290 223 340 214 390 228 440 219 490 226 540 216 590 226 640 218 690 229 740 219 790 228 840 215 910 224"/>
+  </defs>
+  <g fill="none" stroke-width="1" opacity="0.25">
+    <use href="#a" stroke="#71dfb3"/><use href="#b" stroke="#efbe65"/><use href="#c" stroke="#79bdff"/>
+  </g>
+  <use href="#a" class="trace" stroke="#71dfb3"/>
+  <use href="#b" class="trace gold" stroke="#efbe65"/>
+  <use href="#c" class="trace blue" stroke="#79bdff"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="18" viewBox="0 0 900 18" role="img" aria-label="Animated section divider">
+  <style>
+    .signal { stroke-dasharray: 90 810; animation: travel 7s linear infinite; }
+    .return { animation-direction: reverse; animation-duration: 11s; }
+    @keyframes travel { to { stroke-dashoffset: -900; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+  </style>
+  <path d="M0 9H900" stroke="#83919d" stroke-opacity="0.2"/>
+  <path d="M0 9H900" class="signal" stroke="#36b88b" stroke-width="2"/>
+  <path d="M0 9H900" class="signal return" stroke="#d6a147" stroke-width="2"/>
+</svg>
