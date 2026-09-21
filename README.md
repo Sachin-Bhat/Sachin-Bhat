@@ -64,7 +64,7 @@ A retrieval architecture combining stateful neural memory, vector retrieval, and
 - **Rust execution infrastructure:** maintain and extend a production execution router at Tamira, with a 3x latency reduction and ownership of configuration and deployment.
 - **Reproducible evaluation:** improved semantic-routing accuracy from **67.5% to 89.3% across 6,102 benchmark cases** through retrieval diagnostics, ranking, and contextual disambiguation.
 
-Earlier work spans time-series research at NTU, software engineering at MAOTO, robotics and multimodal planning at Schaeffler, and information retrieval at Dell.
+Earlier work spans physics-informed and transformer-based time-series modelling at NTU, multi-agent software systems at MAOTO, 3D perception and multimodal planning at Schaeffler, and production RAG and retrieval systems at Dell.
 
 ### Open-Source Tools
 
